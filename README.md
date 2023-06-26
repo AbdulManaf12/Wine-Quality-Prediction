@@ -30,7 +30,7 @@ The developed machine learning model provides a solution for predicting the qual
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your_username/wine-quality-prediction.git`
+1. Clone the repository: `git clone https://github.com/AbdulManaf12/wine-quality-prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook: `jupyter notebook wine_quality_prediction.ipynb`
 4. Follow the instructions in the notebook to explore the dataset, train the model, and make predictions.
